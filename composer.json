@@ -1,0 +1,8 @@
+{
+    "require": {
+        "wyrihaximus/react-parallel": "dev-master",
+        "react/http": "^0.8.4",
+        "wyrihaximus/json-psr7": "^1.1",
+        "wyrihaximus/pool-info": "dev-master"
+    }
+}
